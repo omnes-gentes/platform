@@ -16,6 +16,8 @@ aws_secret_access_key = [secret-key]
 
 ## Deploy the Infrastructure
 
+> *Inse the `env/us-east-1` directory execute the follow commands.*
+
 Setup terraform:
 ```shell
 terraform init

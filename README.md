@@ -1,5 +1,7 @@
 # platform
 
+![diagram.drawio.png](diagram.drawio.png)
+
 ## required
  - [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
  - [terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
